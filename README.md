@@ -1,1 +1,1 @@
-Credit cards assignment code. 
+Discount cards assignment code. 
